@@ -104,6 +104,8 @@ To use the [Continue.dev](https://www.continue.dev/) extension in [VSCode](https
       - apply
 ```
 
+**Update**: According to a post in the uni freiburg ilias forum, "Zoo Code" extension works better. I have tested and all models run correctly! ;)
+
 ### Agent file system tools
 
 When asking the AI agent to complete tasks in the local file system, a local MCP server is required.
