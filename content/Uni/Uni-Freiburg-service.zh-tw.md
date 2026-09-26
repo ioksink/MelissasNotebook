@@ -108,6 +108,8 @@ Bei Modellen, die vom RZ auf eigener Hardware betrieben werden, wird ein fiktive
       - apply
 ```
 
+**更新**：根據學校的論壇，安裝[Zoo Code](https://www.zoocode.dev/)更可靠。我已經測試過在VSCodium裡面使用Zoo Code extension，使用最新模型也沒有問題！推推！
+
 ### Agent file system tools
 
 When asking the AI agent to complete tasks in the local file system, a local MCP server is required.
