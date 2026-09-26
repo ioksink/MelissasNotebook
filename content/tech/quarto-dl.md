@@ -1,5 +1,5 @@
 ---
-title: "Git install python"
+title: "Quarto dl"
 date: 2026-05-11
 draft: false
 ---
