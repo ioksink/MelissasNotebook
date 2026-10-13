@@ -10,3 +10,5 @@ The topic was "Multi-Marker Analysis of the Bark Beetle Mycobiome Detects Signif
 The trip was sponsored by [Müller-Fahnenberg Stiftung](https://www.europaeische-stiftungsweingueter.eu/unsere-weingueter/mueller-fahnenberg-stiftung-freiburg/index.html) ([Uni Freiburg partner](https://uni-freiburg.de/universitaet/foerdern-und-stiften/stifter-und-stiftungen-der-albert-ludwigs-universitaet/#M%C3%BCller-Fahnenberg-Stiftung)) and SIBE's travel grant for students.
 
 The poster will be posted here after thesis submission (Sep 23, 2026).
+
+![Poster presented in SIBE 2026 in Florence, Italy.](sibe-poster.png)
