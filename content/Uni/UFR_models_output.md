@@ -1,3 +1,7 @@
+---
+title: "List Out Models Provided by UFR Open Web UI"
+date: 2026-10-19
+---
 Directly rewrite a `config.yaml` file in the same folder of the python code. For applying model information to other third-party tool or personal understanding.
 
 ```python
